@@ -22,11 +22,11 @@
 # In[1]:
 
 
-git clone ...
-cd -/dlcource_ai
-virtualenv .venv
-.vevn/bin/pip install matplotlib jupyter notebook tornado scipy
-.venv/bin/jupyter notebook assignments/assignment1/
+#git clone ...
+#cd -/dlcource_ai
+#virtualenv .venv
+#.vevn/bin/pip install matplotlib jupyter notebook tornado scipy
+#.venv/bin/jupyter notebook assignments/assignment1/
 
 
 # In[3]:
